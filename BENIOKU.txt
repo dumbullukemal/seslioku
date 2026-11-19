@@ -1,0 +1,5 @@
+SesliOku — telefona kurulum
+1) Bu klasördeki bütün dosyaları (ema ve ort klasörleri dahil) GitHub Pages'e yükle.
+2) Telefonda adresi Chrome'da aç → ⋮ menü → "Uygulamayı yükle" / "Ana ekrana ekle".
+3) Ayarlar → Ses motoru → Doğal Türkçe → İndir (model bu sitenin ema/ klasöründen iner).
+Model: EMA Lightning — Canberk Aslan (Apache-2.0), ONNX: Koray Orhun. pdf.js: Mozilla (Apache-2.0).

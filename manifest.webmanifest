@@ -1,0 +1,32 @@
+{
+  "name": "SesliOku — sesli ve vurgulu okuyucu",
+  "short_name": "SesliOku",
+  "lang": "tr",
+  "description": "PDF, kitap, tez ve makaleleri doğal Türkçe sesle, okunan kelimeyi vurgulayarak okur.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fbfaf7",
+  "theme_color": "#2f6f5e",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
